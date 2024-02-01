@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="name"
+        android:id="@+id/name"/>
+    <item
+        android:title="@string/batch"
+        android:id="@+id/batch"/>
+    <item
+        android:title="branch"
+        android:id="@+id/branch"/>
+
+</menu>
